@@ -9,7 +9,7 @@
     <h2>Welcome to My Website</h1>
     <p>Hello! We are Group 3 and this is our first Website.</p>
 
-    <p> And our Members are </p>
+    <h3> And our Members are </h4>
     
 <ul>
         <p> Celestine Haste F. Verano </p>
@@ -19,7 +19,8 @@
      
 
     </ul>
-    <p>Thanks for visiting my website!</p>
+    
+<ht>Thanks for visiting my website!</h6>
 <body>
 </head>
   
