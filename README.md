@@ -11,10 +11,10 @@
 
     <h3>And our Members are</h2>
     <ul>
-        <li> Celestine Haste F. Verano </li>
-        <li> Espellarga </li>
-        <li> ORQUE,SHIELO MAY </li>
-      <li> Jasmine Salidaga </li>
+        <p> Celestine Haste F. Verano </p>
+        <p> Espellarga </p>
+        <li> ORQUE,SHIELO MAY </p>
+      <p> Jasmine Salidaga </p>
      
     </ul>
 
