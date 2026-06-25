@@ -20,8 +20,7 @@
 
     </ul>
     <p>Thanks for visiting my website!</p>
-</body>
-</html>
-<a href="https://www.google.com"> 
+<body>
+</head>
   
 </a>
