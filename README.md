@@ -3,18 +3,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Group 3's Website</title>
+    <h1>Group 3's Website</h1>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
+    <h2>Welcome to My Website</h1>
     <p>Hello! We are Group 3 and this is our first Website.</p>
 
-    <h2>And our Members are</h2>
+    <h3>And our Members are</h2>
     <ul>
-        <li>Celestine Haste F. Verano</li>
-        <li>Espellarga</li>
-        <li>ORQUE,SHIELO MAY</li>
-      <li>Jasmine Salidaga</li>
+        <li> Celestine Haste F. Verano </li>
+        <li> Espellarga </li>
+        <li> ORQUE,SHIELO MAY </li>
+      <li> Jasmine Salidaga </li>
      
     </ul>
 
