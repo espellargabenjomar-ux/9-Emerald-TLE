@@ -19,7 +19,6 @@
       <p> Jasmine Salidaga </p>
      
 
-    </li>
     
 <ht>Thanks for visiting my website!</h6>
 <body>
