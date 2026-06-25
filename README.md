@@ -9,7 +9,7 @@
     <h2>Welcome to My Website</h1>
     <p>Hello! We are Group 3 and this is our first Website.</p>
 
-    <p>And our Members are</p>
+    <p> And our Members are </p>
     
 <ul>
         <p> Celestine Haste F. Verano </p>
@@ -17,8 +17,8 @@
         <li> ORQUE,SHIELO MAY </p>
       <p> Jasmine Salidaga </p>
      
-    </ul>
 
+    </ul>
     <p>Thanks for visiting my website!</p>
 </body>
 </html>
