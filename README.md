@@ -9,8 +9,9 @@
     <h2>Welcome to My Website</h1>
     <p>Hello! We are Group 3 and this is our first Website.</p>
 
-    <h3>And our Members are</h2>
-    <ul>
+    <h2>And our Members are</h2>
+    
+<ul>
         <p> Celestine Haste F. Verano </p>
         <p> Espellarga </p>
         <li> ORQUE,SHIELO MAY </p>
